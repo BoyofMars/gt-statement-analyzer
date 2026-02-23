@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+pandas
+matplotlib
+python-multipart
+jinja2
