@@ -25,3 +25,8 @@ MarsinSight aims to simplify financial visibility for individuals first, then sc
 ---
 
 Currently in MVP stage.
+
+## Documentation
+
+- Setup Guide: SETUP.md
+- PDF Version: MarsinSight_Setup_Guide.pdf
